@@ -1,0 +1,59 @@
+{
+    "name": "jsdoc-markdown-highlighting",
+    "displayName": "JSDoc Markdown highlighting",
+    "description": "Add markdown syntax highlighting to JSDoc comments in JavaScript and TypeScript",
+    "version": "0.0.1",
+    "publisher": "bierner",
+    "galleryBanner": {
+        "color": "#ffffff",
+        "theme": "light"
+    },
+    "repository": {
+        "url": "https://github.com/mjbvz/vscode-jsdoc-markdown-highlighting.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mjbvz/vscode-jsdoc-markdown-highlighting/issues"
+    },
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "keywords": [
+        "javascript",
+        "typescript",
+        "jsdoc",
+        "comment",
+        "markdown"
+    ],
+    "contributes": {
+        "grammars": [
+            {
+                "scopeName": "documentation.injection.ts",
+                "path": "./syntaxes/jsdoc.ts.injection.tmLanguage.json",
+                "injectTo": [
+                    "source.ts",
+                    "source.tsx"
+                ]
+            },
+            {
+                "scopeName": "documentation.injection.js.jsx",
+                "path": "./syntaxes/jsdoc.js.injection.tmLanguage.json",
+                "injectTo": [
+                    "source.js",
+                    "source.js.jsx"
+                ]
+            }
+        ]
+    },
+    "devDependencies": {
+        "@types/node": "^10.5.1",
+        "vscode": "^1.1.36"
+    },
+    "scripts": {
+        "build": "node ./build/build",
+        "getEmbedded": "node ./build/getEmbedded",
+        "test": "node ./node_modules/vscode/bin/test ./test"
+    }
+}
