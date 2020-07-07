@@ -13,7 +13,7 @@ before_install:
 
 install:
   - npm install
-  - npm run compile
+  - npm run build
 
 script:
   - npm test
