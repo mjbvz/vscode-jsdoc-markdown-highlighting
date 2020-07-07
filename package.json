@@ -52,8 +52,6 @@
         "vscode": "^1.1.36"
     },
     "scripts": {
-        "build": "node ./build/build",
-        "getEmbedded": "node ./build/getEmbedded",
         "test": "node ./node_modules/vscode/bin/test ./test"
     }
 }
