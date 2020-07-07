@@ -1,7 +1,7 @@
 [
 	{
 		"c": "/**",
-		"t": "source.js comment.block.documentation.js punctuation.definition.comment.js",
+		"t": "source.tsx comment.block.documentation.tsx punctuation.definition.comment.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -12,7 +12,7 @@
 	},
 	{
 		"c": " * Some ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -23,7 +23,7 @@
 	},
 	{
 		"c": "`",
-		"t": "source.js comment.block.documentation.js markup.inline.raw.string.markdown punctuation.definition.raw.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.inline.raw.string.markdown punctuation.definition.raw.markdown",
 		"r": {
 			"dark_plus": "markup.inline.raw: #CE9178",
 			"light_plus": "markup.inline.raw: #800000",
@@ -34,7 +34,7 @@
 	},
 	{
 		"c": "inline code",
-		"t": "source.js comment.block.documentation.js markup.inline.raw.string.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.inline.raw.string.markdown",
 		"r": {
 			"dark_plus": "markup.inline.raw: #CE9178",
 			"light_plus": "markup.inline.raw: #800000",
@@ -45,7 +45,7 @@
 	},
 	{
 		"c": "`",
-		"t": "source.js comment.block.documentation.js markup.inline.raw.string.markdown punctuation.definition.raw.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.inline.raw.string.markdown punctuation.definition.raw.markdown",
 		"r": {
 			"dark_plus": "markup.inline.raw: #CE9178",
 			"light_plus": "markup.inline.raw: #800000",
@@ -56,7 +56,7 @@
 	},
 	{
 		"c": " * ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -67,7 +67,7 @@
 	},
 	{
 		"c": " * ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -78,7 +78,7 @@
 	},
 	{
 		"c": "@",
-		"t": "source.js comment.block.documentation.js storage.type.class.jsdoc punctuation.definition.block.tag.jsdoc",
+		"t": "source.tsx comment.block.documentation.tsx storage.type.class.jsdoc punctuation.definition.block.tag.jsdoc",
 		"r": {
 			"dark_plus": "storage.type: #569CD6",
 			"light_plus": "storage.type: #0000FF",
@@ -89,7 +89,7 @@
 	},
 	{
 		"c": "param",
-		"t": "source.js comment.block.documentation.js storage.type.class.jsdoc",
+		"t": "source.tsx comment.block.documentation.tsx storage.type.class.jsdoc",
 		"r": {
 			"dark_plus": "storage.type: #569CD6",
 			"light_plus": "storage.type: #0000FF",
@@ -100,7 +100,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -111,7 +111,7 @@
 	},
 	{
 		"c": "x",
-		"t": "source.js comment.block.documentation.js variable.other.jsdoc",
+		"t": "source.tsx comment.block.documentation.tsx variable.other.jsdoc",
 		"r": {
 			"dark_plus": "variable: #9CDCFE",
 			"light_plus": "variable: #001080",
@@ -122,7 +122,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -133,7 +133,7 @@
 	},
 	{
 		"c": "**",
-		"t": "source.js comment.block.documentation.js markup.bold.markdown punctuation.definition.bold.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.bold.markdown punctuation.definition.bold.markdown",
 		"r": {
 			"dark_plus": "markup.bold: #569CD6",
 			"light_plus": "markup.bold: #000080",
@@ -144,7 +144,7 @@
 	},
 	{
 		"c": "bold",
-		"t": "source.js comment.block.documentation.js markup.bold.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.bold.markdown",
 		"r": {
 			"dark_plus": "markup.bold: #569CD6",
 			"light_plus": "markup.bold: #000080",
@@ -155,7 +155,7 @@
 	},
 	{
 		"c": "**",
-		"t": "source.js comment.block.documentation.js markup.bold.markdown punctuation.definition.bold.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.bold.markdown punctuation.definition.bold.markdown",
 		"r": {
 			"dark_plus": "markup.bold: #569CD6",
 			"light_plus": "markup.bold: #000080",
@@ -166,7 +166,7 @@
 	},
 	{
 		"c": " description",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -177,7 +177,7 @@
 	},
 	{
 		"c": " * ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -188,7 +188,7 @@
 	},
 	{
 		"c": " *",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -199,7 +199,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -210,7 +210,7 @@
 	},
 	{
 		"c": "```",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown punctuation.definition.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown punctuation.definition.markdown",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -221,7 +221,7 @@
 	},
 	{
 		"c": "js",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown fenced_code.block.language.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown fenced_code.block.language.markdown",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -232,7 +232,7 @@
 	},
 	{
 		"c": " *",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -243,7 +243,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript",
 		"r": {
 			"dark_plus": "meta.embedded: #D4D4D4",
 			"light_plus": "meta.embedded: #000000",
@@ -254,7 +254,7 @@
 	},
 	{
 		"c": "1",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript constant.numeric.decimal.js",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript constant.numeric.decimal.js",
 		"r": {
 			"dark_plus": "constant.numeric: #B5CEA8",
 			"light_plus": "constant.numeric: #098658",
@@ -265,7 +265,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript",
 		"r": {
 			"dark_plus": "meta.embedded: #D4D4D4",
 			"light_plus": "meta.embedded: #000000",
@@ -276,7 +276,7 @@
 	},
 	{
 		"c": "+",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript keyword.operator.arithmetic.js",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript keyword.operator.arithmetic.js",
 		"r": {
 			"dark_plus": "keyword.operator: #D4D4D4",
 			"light_plus": "keyword.operator: #000000",
@@ -287,7 +287,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript",
 		"r": {
 			"dark_plus": "meta.embedded: #D4D4D4",
 			"light_plus": "meta.embedded: #000000",
@@ -298,7 +298,7 @@
 	},
 	{
 		"c": "1",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown meta.embedded.block.javascript constant.numeric.decimal.js",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown meta.embedded.block.javascript constant.numeric.decimal.js",
 		"r": {
 			"dark_plus": "constant.numeric: #B5CEA8",
 			"light_plus": "constant.numeric: #098658",
@@ -309,7 +309,7 @@
 	},
 	{
 		"c": " *",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -320,7 +320,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -331,7 +331,7 @@
 	},
 	{
 		"c": "```",
-		"t": "source.js comment.block.documentation.js markup.fenced_code.block.markdown punctuation.definition.markdown",
+		"t": "source.tsx comment.block.documentation.tsx markup.fenced_code.block.markdown punctuation.definition.markdown",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -342,7 +342,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js comment.block.documentation.js",
+		"t": "source.tsx comment.block.documentation.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -353,7 +353,7 @@
 	},
 	{
 		"c": "*/",
-		"t": "source.js comment.block.documentation.js punctuation.definition.comment.js",
+		"t": "source.tsx comment.block.documentation.tsx punctuation.definition.comment.tsx",
 		"r": {
 			"dark_plus": "comment: #6A9955",
 			"light_plus": "comment: #008000",
@@ -364,7 +364,7 @@
 	},
 	{
 		"c": "function",
-		"t": "source.js meta.function.js storage.type.function.js",
+		"t": "source.tsx meta.function.tsx storage.type.function.tsx",
 		"r": {
 			"dark_plus": "storage.type: #569CD6",
 			"light_plus": "storage.type: #0000FF",
@@ -375,7 +375,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js meta.function.js",
+		"t": "source.tsx meta.function.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
@@ -386,7 +386,7 @@
 	},
 	{
 		"c": "foo",
-		"t": "source.js meta.function.js meta.definition.function.js entity.name.function.js",
+		"t": "source.tsx meta.function.tsx meta.definition.function.tsx entity.name.function.tsx",
 		"r": {
 			"dark_plus": "entity.name.function: #DCDCAA",
 			"light_plus": "entity.name.function: #795E26",
@@ -397,7 +397,7 @@
 	},
 	{
 		"c": "(",
-		"t": "source.js meta.function.js meta.parameters.js punctuation.definition.parameters.begin.js",
+		"t": "source.tsx meta.function.tsx meta.parameters.tsx punctuation.definition.parameters.begin.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
@@ -408,7 +408,7 @@
 	},
 	{
 		"c": ")",
-		"t": "source.js meta.function.js meta.parameters.js punctuation.definition.parameters.end.js",
+		"t": "source.tsx meta.function.tsx meta.parameters.tsx punctuation.definition.parameters.end.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
@@ -419,7 +419,7 @@
 	},
 	{
 		"c": "{",
-		"t": "source.js meta.function.js meta.block.js punctuation.definition.block.js",
+		"t": "source.tsx meta.function.tsx meta.block.tsx punctuation.definition.block.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
@@ -430,7 +430,7 @@
 	},
 	{
 		"c": " ",
-		"t": "source.js meta.function.js meta.block.js",
+		"t": "source.tsx meta.function.tsx meta.block.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
@@ -441,7 +441,7 @@
 	},
 	{
 		"c": "}",
-		"t": "source.js meta.function.js meta.block.js punctuation.definition.block.js",
+		"t": "source.tsx meta.function.tsx meta.block.tsx punctuation.definition.block.tsx",
 		"r": {
 			"dark_plus": "default: #D4D4D4",
 			"light_plus": "default: #000000",
