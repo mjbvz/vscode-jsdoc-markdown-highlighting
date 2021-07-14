@@ -52,6 +52,6 @@
         "vscode": "^1.1.36"
     },
     "scripts": {
-        "test": "node ./node_modules/vscode/bin/test ./test"
+        "test": "CODE_DISABLE_EXTENSIONS=true node ./node_modules/vscode/bin/test ./test"
     }
 }
