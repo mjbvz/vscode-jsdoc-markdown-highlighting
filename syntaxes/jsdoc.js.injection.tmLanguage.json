@@ -33,7 +33,7 @@
 		},
 		"example": {
 			"begin": "((@)example)\\s+(?=([^*]|[*](?!/))*$).*$",
-			"while": "(^|\\G)\\s(?!@)(?=([^*]|[*](?!/))*$)",
+			"while": "(^|\\G)\\s(?!@|```)(?=([^*]|[*](?!/))*$)",
 			"beginCaptures": {
 				"1": {
 					"name": "storage.type.class.jsdoc"
