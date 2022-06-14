@@ -28,6 +28,15 @@
 				},
 				{
 					"include": "text.html.markdown#inline"
+				},
+                		{
+                    			"include": "text.html.markdown#heading"
+                		},
+                		{
+                    			"include": "text.html.markdown#lists"
+                		},
+                		{
+                    			"include": "text.html.markdown#blockquote"
 				}
 			]
 		},
